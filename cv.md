@@ -94,8 +94,8 @@ function formatDuration (s) {
 
 ### Work experience
 
-* Small training project using Vue.js: https://github.com/BalPoi/vue
-* Small Cure landing page, made from a template: https://github.com/BalPoi/pet-landing-page
+* Small training project using Vue.js: [https://github.com/BalPoi/vue](https://github.com/BalPoi/vue)
+* Small Cure landing page, made from a template: [https://github.com/BalPoi/pet-landing-page](https://github.com/BalPoi/pet-landing-page)
 
 ---
 
