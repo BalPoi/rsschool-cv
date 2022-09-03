@@ -2,7 +2,7 @@
 
 ![Pavels avatar](./avatar255.jpg)
 
-## Junior Front End Developer
+## Junior Front-End Developer
 
 ---
 
@@ -19,7 +19,7 @@
 
 ### About Me
 
-I'm 20 years old, a third-year student, and have experience with the HTML/CSS/JS technology stack and a bit with others: SQL, C, Java, Python, etc.
+I'm 21 years old and have experience with the HTML/CSS/JS technology stack and a bit with others: SQL, C, Java, Python, etc.
 
 Worked under short deadlines, tutored underachieving mates, and participated in the social life of the university.
 
